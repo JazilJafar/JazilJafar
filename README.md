@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/12zFlnyyTRmIkU" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sky-night-12zFlnyyTRmIkU">via GIPHY</a></p>
+<div align="center">
+  <img src="https://64.media.tumblr.com/fa4124a283dab155ad455b59fd849e6d/tumblr_mr1fjsDFn01rut1rdo1_500.gifv" width="60px" />
+</div>
 
 ### Hi there 👋, I'm Jazil Jafar
 
