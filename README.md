@@ -10,4 +10,6 @@ const jazil = {
   code: ["HTML", "CSS", "JavaScript"],
   tools: ["VS Code", "Git", "Chrome DevTools", "Figma"]
 }
-`HTML` `CSS` `JS` `Github` `Gitlab` `Git` `Figma` `Devtools`
+### Tech
+
+`Python` `Node.js` `TypeScript` `CLI tools` `prompt_toolkit` `GitHub Actions`
